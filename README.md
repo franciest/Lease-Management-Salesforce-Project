@@ -151,6 +151,13 @@ Department of Artificial Intelligence and Data Science
 
 ---
 
+## 🎥 Demo Video
+Watch the demo video below:
+
+https://drive.google.com/file/d/1ODrAesI7XQOlJYiuopIremAkf8ozaZoq/view?usp=drive_link
+
+---
+
 ## 📚 References
 - [Salesforce Developer Documentation](https://developer.salesforce.com/docs/)  
 - [Naan Mudhalvan Salesforce Internship Portal](https://smartinternz.com/)  
